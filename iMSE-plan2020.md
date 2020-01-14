@@ -121,7 +121,7 @@
 4. 服务治理
 
 ### 3.3 技术标准化
-1. 为前后端人员的技术选型提供统一的标准，减少冲突，节省沟通成本，新人快速上手[DevOps最佳实践](https://github.com/iyouling/iMSE-instruction/edit/master/iMSE-DevOps.md)
+1. 为前后端人员的技术选型提供统一的标准，减少冲突，节省沟通成本，新人快速上手：[DevOps最佳实践](https://github.com/iyouling/iMSE-instruction/edit/master/iMSE-DevOps.md)
 2. 整合部门间重复性高，频繁调用的业务，提供一套可复用、高可用、高性能、高维护性、易扩展、弹性伸缩的解决方案，可以承载未来的亿级用户量
 3. 接入系统的资源（应用、主体、公众号、小程序、微信号）将统一管理，方便查询，提升资源利用率，部门间、部门内易于协调
 4. 统一api接口文档，可读性强，易调试
