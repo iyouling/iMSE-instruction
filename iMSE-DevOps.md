@@ -19,3 +19,4 @@
 Web服务器：Nginx
 数据库：MySQL redis
 ```
+[具体参考](https://library.prof.wang/handbook/h/hdbk-MWnS99ThmLVDi7U5mVFrB9)
