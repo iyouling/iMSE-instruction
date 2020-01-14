@@ -1,10 +1,10 @@
 # Composer + Github项目流程说明：
 1.	Github上创建一个仓库，账号chenjiayuan3823，仓库名tp6；
-2.	本地克隆github仓库 git clone https://url
-3.	本地提交代码到github仓库 git add . + git commit -am "" + git push，输入github账号密码
-4.	https://packagist.org/ 登录用github账号，并选中目标仓库submit，composer和github关联，完成后即可使用composer安装项目，而非git clone，git pull
+2.	本地克隆github仓库 `git clone https://url`
+3.	本地提交代码到github仓库 `git add .` + `git commit -am ""` + `git push`，输入github账号密码
+4.	https://packagist.org/ 登录用github账号，并选中目标仓库submit，composer和github关联，完成后即可使用composer安装项目，而非`git clone`，`git pull`
 5.	在服务器上用第四步submit生成的composer命令
-    composer create-project chenjiayuan3823/tp6 xcx dev-master
+    `composer create-project chenjiayuan3823/tp6 xcx dev-master`
 
 6.	在服务器上使用以上命令安装 安装最后会询问是否移除已有的.git .svn  选择N否
 7.	配置nginx 访问项目（可能需要安装）
@@ -12,16 +12,17 @@
 9.	调试
 
 ## 以下是服务器修改后提交至github
-1. git remote -v 查看远程连接方式 push fetch origin composer
-2. git remote rm origin 删除现有连接方式
+1. `git remote -v` 查看远程连接方式 push fetch origin composer
+2. `git remote rm origin` 删除现有连接方式
+```
 git branch -v 查看分支版本
-    * master b215911 FFFF
+* master b215911 FFFF
+```
 
 3. 在远程仓库地址复制SSH地址
-4. git remote add origin https://github.com/chenjiayuan3823/xcx.git【SSH地址】。 使用SSH方式重新建立连接
-5. git push origin  提交完成
-
-    git push -u https://github.com/chenjiayuan3823/xcx.git master
+4. `git remote add origin https://github.com/chenjiayuan3823/xcx.git[SSH地址]`。 使用SSH方式重新建立连接
+5. `git push origin`  提交完成
+    `git push -u https://github.com/chenjiayuan3823/xcx.git master`
 
 ## 扩展1：我应该提交 vendor 目录中的依赖包吗？
 一般情况下 不建议。vendor 目录（或者你安装依赖的其它目录）都应该被添加进 .gitignore/svn:ignore/等等。
