@@ -52,8 +52,8 @@
 > 流程：调查 → 试用 → 选型 → 深入研究 → Demo → Wiki → 分享推广 → 业务系统试用 → 改进完善 → 大规模推广
 >
 > 例：Job/Redis/CenterLog/业务监控(Metrics)/Dashboard/调试工具(WinDbg)/RabbitMQ/ORM工具(Dapper)/
-> MongoDB/JEtermClient/公共类库(JFx)/ZooKeeper/OpenTSDB/HBse/Search工具(Solr)/元数据管理(DDM)/DLL管理(NuGet)/
-> 自动发布(Jenkins)/微服务架构(JSOA)
+> MongoDB/JEtermClient/公共类库(JFx)/ZooKeeper/OpenTSDB/HBse/Search工具(Solr)/元数据管理(DDM)/
+> DLL管理(NuGet)/自动发布(Jenkins)/微服务架构(JSOA)
 
 # 2. 组建实施
 ## 2.1 数据库改造
