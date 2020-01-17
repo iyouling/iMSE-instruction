@@ -9,7 +9,7 @@
 
 ## 1.2 总体规划
 ### 1 组建计划
-[计划会](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-plan2020.md)
+2020.1.15 [计划会](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-plan2020.md)
 
 ### 2 系统概述
 
