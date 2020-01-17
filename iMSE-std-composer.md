@@ -1,8 +1,9 @@
-# Composer + Github项目流程说明：
+# 如何使用 Composer + Github 进行版本管理
+> 作者：陈佳源
 1.	Github上创建一个仓库，账号chenjiayuan3823，仓库名tp6；
 2.	本地克隆github仓库 `git clone https://url`
 3.	本地提交代码到github仓库 `git add .` + `git commit -am ""` + `git push`，输入github账号密码
-4.	https://packagist.org/ 登录用github账号，并选中目标仓库submit，composer和github关联，完成后即可使用composer安装项目，而非`git clone`，`git pull`
+4.	https://packagist.org/ 用github账号登录，并选中目标仓库submit，composer和github关联，完成后即可使用composer安装项目，而非`git clone`，`git pull`
 5.	在服务器上用第四步submit生成的composer命令
     `composer create-project chenjiayuan3823/tp6 xcx dev-master`
 
