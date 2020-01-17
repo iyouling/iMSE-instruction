@@ -7,7 +7,7 @@
 ## 标准化
 ### 最佳实践
 + [王教授最佳实践](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-DevOps.md)
-+ [Composer + Github](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-std-composer.md)
++ 陈佳源：[如何使用 Composer + Github 进行版本管理](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-std-composer.md)
 
 ### 技术路线
 + [学习大纲](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-TechStack.md)
