@@ -5,16 +5,26 @@
 
 ## 标准化
 ### 最佳实践
-[最佳实践](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-DevOps.md)
++ [王教授最佳实践](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-DevOps.md)
++ [Composer + Github](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-std-composer.md)
 
 ### 技术路线
-[学习大纲](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-TechStack.md)
++ [学习大纲](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-TechStack.md)
 
 ### 前端
 
 ### 后端框架
 
 ### 微服务
+1. Docker
+2. K8s
+3. Swoole
+4. Swoft
+5. Consul
+6. RPC
+7. 日志监控ELK
+8. 数据库
+9. 数据中台
 
 ### 性能优化
 
