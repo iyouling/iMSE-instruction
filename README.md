@@ -16,15 +16,40 @@
 ### 后端框架
 
 ### 微服务
-1. Docker
-2. K8s
-3. Swoole
-4. Swoft
-5. Consul
-6. RPC
-7. 日志监控ELK
+1. 容器
++ Docker
+
+2. 容器编排
++ K8s
+
+3. 框架
++ Swoole
++ Swoft
+
+4. 消息中间件：解耦、异步、削峰
++ ActiveMQ
++ RabbitMQ
++ RocketMQ
++ Kafka
+
+5. 服务管理：服务注册与发现、动态扩容、熔断、服务降级、限流
++ Consul
++ Zookeeper
++ etcd
+
+6. 进程间通信
++ RPC
++ Restful Api
+
+7. 日志监控分析
++ Elasticsearch
++ Logstash
++ Kibana
+
 8. 数据库
+
 9. 数据中台
+
 
 ### 性能优化
 
