@@ -56,7 +56,7 @@
 ![TSF](https://imse-1255691551.cos.ap-shanghai.myqcloud.com/TSF-1.png)
 
 2. 提供掌酷技术开发团队使用的，可扩展、高可用、可持续交付的技术标准化流程
-> [DevOps最佳实践](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-DevOps.md)
+> [DevOps最佳实践](iMSE-DevOps.md)
 
 ### 2.2 为什么要组建微服务架构？
 #### 2.2.1 掌酷技术/运维/业务现状
