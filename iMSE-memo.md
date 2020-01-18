@@ -2,7 +2,7 @@
 > 总体规划、大事纪要
 # 1. 前期工作
 ## 1.1 组建计划会
-2020.1.15 《2020掌酷微服务架构组建计划》[会议资料](https://github.com/iyouling/iMSE-instruction/blob/master/iMSE-plan2020.md)
+2020.1.15 《2020掌酷微服务架构组建计划》[会议资料](iMSE-plan2020.md)
 
 ## 1.2 架构团队组建
 + 成立：内招高级程序员
