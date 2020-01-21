@@ -19,6 +19,10 @@
 + [worktile](https://worktile.com/)
 + 禅道
 
+#### 代码托管
++ √ SVN
++ √ Git
+
 #### 前端
 + √ vue.js
 + √ uni-app
