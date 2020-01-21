@@ -24,7 +24,7 @@
 + √ uni-app
 
 #### 后端框架
-+ √ [Thinkphp6及衍生框架](https://www.kancloud.cn/manual/thinkphp6_0/1037479)
++ √ [Thinkphp及衍生框架](https://www.kancloud.cn/manual/thinkphp6_0/1037479)
 + [YII](https://www.yiiframework.com)
 + [laravel](https://laravel.com)
 + [symfony](http://www.symfonychina.com)
