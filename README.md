@@ -67,7 +67,7 @@
 + √ Kibana
 
 8. 数据库
-+ √ [Mariadb](https://mariadb.org)
++ √ [Mariadb/Mysql](https://mariadb.org)
 + √ [mongodb](www.mongodb.org)
 + √ [redis](https://redis.io)
 + √ Sqlserver
