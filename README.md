@@ -12,42 +12,65 @@
 ### 技术路线
 + [学习大纲](iMSE-TechStack.md)
 
-### 前端
+### 选用工具/框架
+#### 项目管理
++ √ [Tapd](https://www.tapd.cn)
++ Jira
++ [worktile](https://worktile.com/)
++ 禅道
 
-### 后端框架
+#### 前端
++ √ vue.js
++ √ uni-app
 
-### 微服务
+#### 后端框架
++ √ [Thinkphp6及衍生框架](https://www.kancloud.cn/manual/thinkphp6_0/1037479)
++ [YII](https://www.yiiframework.com)
++ [laravel](https://laravel.com)
++ [symfony](http://www.symfonychina.com)
+
+#### 微服务
 1. 容器
-+ Docker
++ √ [Docker](https://hub.docker.com/)
 
 2. 容器编排
-+ K8s
++ √ K8s
++ √ docker-compose
 
 3. 框架
-+ Swoole
-+ Swoft
++ √ Swoole
++ √ Swoft
++ √ Thrift
++ gRPC
++ Halibut
++ SCS
++ Shuttler.net
 
 4. 消息中间件：解耦、异步、削峰
++ √ RabbitMQ
 + ActiveMQ
-+ RabbitMQ
 + RocketMQ
 + Kafka
 
 5. 服务管理：服务注册与发现、动态扩容、熔断、服务降级、限流
-+ Consul
++ √ [Consul](https://www.consul.io)
 + Zookeeper
 + etcd
 
 6. 进程间通信
-+ RPC
-+ Restful Api
++ √ RPC
++ √ Restful Api
 
 7. 日志监控分析
-+ Elasticsearch
-+ Logstash
-+ Kibana
++ √ Elasticsearch
++ √ Logstash
++ √ Kibana
 
 8. 数据库
++ √ [Mariadb](https://mariadb.org)
++ √ [mongodb](www.mongodb.org)
++ √ [redis](https://redis.io)
++ √ Sqlserver
 
 9. 数据中台
 
