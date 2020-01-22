@@ -44,7 +44,7 @@
 3. 框架
 + √ Swoole
 + √ Swoft
-+ √ [Hprose](https://github.com/hprose)
++ √ [Hprose](https://github.com/hprose) [wiki](https://github.com/hprose/hprose-php/wiki)
 + √ Thrift
 + √ gRPC
 + Halibut
