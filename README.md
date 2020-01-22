@@ -44,8 +44,9 @@
 3. 框架
 + √ Swoole
 + √ Swoft
++ √ [Hprose](https://github.com/hprose)
 + √ Thrift
-+ gRPC
++ √ gRPC
 + Halibut
 + SCS
 + Shuttler.net
