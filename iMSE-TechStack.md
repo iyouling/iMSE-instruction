@@ -25,7 +25,7 @@
 
 ### 微服务
 1. swoole网络编程
-2. Restful/API接口平台
+2. [Restful/API接口平台](https://segmentfault.com/a/1190000008697972)
 3. 支付平台实战
 4. 在线视频直播平台实战
 5. swoft微服务框架实战
