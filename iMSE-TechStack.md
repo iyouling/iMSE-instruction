@@ -2,7 +2,7 @@
 ## 后端、架构
 ### 框架内核
 1. 常用设计模式
-2. ThinkPHP6 精通框架
+2. [ThinkPHP6 精通框架](https://www.kancloud.cn/hubqin/thinkphp/1361608)
 3. YII 精通框架
 4. Laravel6 源码分析，实战
 5. Symfony 核心源码分析
