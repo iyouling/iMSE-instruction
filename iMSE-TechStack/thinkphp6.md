@@ -7,7 +7,7 @@
 * YII
 * ZendFramework
 * ThinkPHP
-> 用composer安装
+    > 用composer安装
 
 ### 1.2 MVC模式
 Model业务逻辑 - Controller控制器 - View交互界面
@@ -79,7 +79,7 @@ HTTP请求流程
 * `php think make:command` 创建自定义命令
 
 ### 1.8 Xdebug调试
-1. [xdebug.org](xdebug.org) 分析phpinfo文件 → 下载相应版本 / pecl install xdebug
+1. [xdebug.org](https://xdebug.org/wizard) 分析phpinfo文件 → 下载相应版本 / pecl install xdebug
 2. php.ini 配置PHPSTORM远程调试
 3. phpstorm的Settings设置xdebug端口和代理
 4. phpstorm的Run执行Web Server Debug Validation，验证是否配置成功
