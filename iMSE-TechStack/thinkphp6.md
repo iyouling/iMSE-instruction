@@ -1,4 +1,4 @@
-# ThinkPHP6精通框架
+# ThinkPHP6 精通框架
 ## 1. 框架
 ### 1.1 框架简介
 * Laravel - 巨匠级
@@ -79,7 +79,7 @@ HTTP请求流程
 * `php think make:command` 创建自定义命令
 
 ### 1.8 Xdebug调试
-1. [xdebug.org](https://xdebug.org/wizard) 分析phpinfo文件 → 下载相应版本 / pecl install xdebug
+1. Windows: [xdebug.org](https://xdebug.org/wizard) 分析phpinfo文件 → 下载相应版本 / Linux: pecl install xdebug
 2. php.ini 配置PHPSTORM远程调试
 3. phpstorm的Settings设置xdebug端口和代理
 4. phpstorm的Run执行Web Server Debug Validation，验证是否配置成功
