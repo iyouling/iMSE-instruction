@@ -261,7 +261,7 @@ delete, destory, json
 ### 4.4 自动时间戳
 ### 4.5 软删除
 * select查询不出来
-* withTrash删除数据一起差
+* withTrash删除数据一起查询出来
 * restore恢复
 ### 4.6 类型转换
 ### 4.7 关联模型
