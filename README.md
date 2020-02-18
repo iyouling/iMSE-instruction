@@ -102,13 +102,4 @@
 
 ### 大型网站
 
-### 其它资料
-#### 美团技术年货
-+ [前端篇](http://dpurl.cn/Xy6IOU4)
-+ [后台篇](http://dpurl.cn/DPm3hdo)
-+ [算法篇](http://dpurl.cn/gIIjhRw)
-+ [大数据篇](http://dpurl.cn/Lb7j5xA)
-+ [学术论文篇](http://dpurl.cn/4KE72hn)
-+ [2019美团点评技术文章合辑](http://dpurl.cn/9zvkFYe)
 
-#### [迅雷前端笔记](https://github.com/realgeoffrey/knowledge)
