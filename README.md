@@ -77,7 +77,7 @@
 + √ [Mongodb](www.mongodb.org)
 + √ [Redis](https://redis.io)
 + √ Sqlserver
-+ Memcache
++ [Memcache](https://www.php.net/manual/en/book.memcache.php)
 
 9. 数据中台
 
