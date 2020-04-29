@@ -87,7 +87,7 @@
 + Python
 + [Pandas](https://www.pypandas.cn)
 
-10. 服务网格Service Mesh
+10. 服务网格[Service Mesh](https://zhuanlan.zhihu.com/p/122274321)
 + [Linkerd](https://github.com/linkerd/linkerd)
 + [Envoy](https://github.com/envoyproxy/envoy)
 + [Istio](https://github.com/istio/istio)
