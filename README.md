@@ -72,11 +72,15 @@
 + √ [Logstash](https://www.elastic.co/cn/logstash)
 + √ [Kibana](https://www.elastic.co/cn/kibana)
 
-8. 数据库
+8. 数据存储
 + √ [Mariadb/Mysql](https://mariadb.org)
-+ √ [Mongodb](www.mongodb.org)
-+ √ [Redis](https://redis.io)
 + √ Sqlserver
++ √ [Mongodb](www.mongodb.org)
++ CouchDB
++ √ [Redis](https://redis.io)
++ Flare
++ Cassandra
++ Hbase
 + [Memcache](https://www.php.net/manual/en/book.memcache.php)
 
 9. 数据中台
